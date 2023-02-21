@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\bin\Debug\net6.0\Numbers_Array.exe
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\bin\Debug\net6.0\Numbers_Array.deps.json
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\bin\Debug\net6.0\Numbers_Array.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\bin\Debug\net6.0\Numbers_Array.dll
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\bin\Debug\net6.0\Numbers_Array.pdb
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\obj\Debug\net6.0\Numbers_Array.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\obj\Debug\net6.0\Numbers_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\obj\Debug\net6.0\Numbers_Array.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\obj\Debug\net6.0\Numbers_Array.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\obj\Debug\net6.0\Numbers_Array.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\obj\Debug\net6.0\Numbers_Array.dll
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\obj\Debug\net6.0\refint\Numbers_Array.dll
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\obj\Debug\net6.0\Numbers_Array.pdb
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\obj\Debug\net6.0\Numbers_Array.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week6_Strings_Arrays\Numbers_Array\obj\Debug\net6.0\ref\Numbers_Array.dll
